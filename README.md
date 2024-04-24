@@ -1,6 +1,6 @@
 # snap_share
 
-A new Flutter project to build a social media app
+This is Development branch from where we create feature branches and pull the result to it
 
 ## Getting Started
 To start collaborate with this project. You should follow these general rules.
