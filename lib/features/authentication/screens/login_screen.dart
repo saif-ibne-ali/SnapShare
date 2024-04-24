@@ -42,7 +42,7 @@ class LoginScreen extends StatelessWidget {
               const SizedBox(height: SSizes.spaceBtwItems - 4),
               const STextField(
                 hintText: 'Input Password',
-                prefixIcon: Icons.email_outlined,
+                prefixIcon: Icons.lock_outlined,
                 suffixIcon: Icons.remove_red_eye_outlined,
               ),
               const SizedBox(height: SSizes.spaceBtwItems / 4),
