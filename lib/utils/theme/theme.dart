@@ -7,8 +7,8 @@ import 'package:snap_share/utils/theme/custom_themes/elevated_button_theme.dart'
 import 'package:snap_share/utils/theme/custom_themes/text_field_theme.dart';
 import 'package:snap_share/utils/theme/custom_themes/text_theme.dart';
 
-class SAppTheme {
-  SAppTheme._(); // making the constructor private
+class EAppTheme {
+  EAppTheme._(); // making the constructor private
 
   static ThemeData lightTheme = ThemeData(
     brightness: Brightness.light,

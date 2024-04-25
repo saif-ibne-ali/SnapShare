@@ -11,7 +11,7 @@ class STextTheme {
     headlineMedium: const TextStyle().copyWith(
         fontSize: 24, fontWeight: FontWeight.w600, color: Colors.black),
     headlineSmall: const TextStyle().copyWith(
-        fontSize: 18, fontWeight: FontWeight.bold, color: Colors.black),
+        fontSize: 18, fontWeight: FontWeight.w600, color: Colors.black),
 
     // title
     titleLarge: const TextStyle().copyWith(
